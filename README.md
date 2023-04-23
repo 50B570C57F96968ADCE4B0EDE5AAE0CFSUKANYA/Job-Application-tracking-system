@@ -1,5 +1,5 @@
 # Job-Application-tracking-system
-Video Demonstration:https:https://drive.google.com/file/d/10_vnn6TCqnOwBemt52bp-Otbp8KmunD8/view?usp=drivesdk
+Video Demonstration:https://drive.google.com/file/d/10_vnn6TCqnOwBemt52bp-Otbp8KmunD8/view?usp=drivesdk
 
 Trailhead Profile URL
 
